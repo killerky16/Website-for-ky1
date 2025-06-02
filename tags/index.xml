@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ky的学习空间</title>
-    <link>https://killerky16.github.io/Website-for-ky1/tags/</link>
+    <link>http://localhost:1313/Website-for-ky1/tags/</link>
     <description>Recent content in Tags on Ky的学习空间</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>zh-cn</language>
-    <atom:link href="https://killerky16.github.io/Website-for-ky1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jun 2025 14:36:31 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Website-for-ky1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ky</title>
+      <link>http://localhost:1313/Website-for-ky1/tags/ky/</link>
+      <pubDate>Mon, 02 Jun 2025 14:36:31 +0800</pubDate>
+      <guid>http://localhost:1313/Website-for-ky1/tags/ky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>http://localhost:1313/Website-for-ky1/tags/post/</link>
+      <pubDate>Mon, 02 Jun 2025 14:36:31 +0800</pubDate>
+      <guid>http://localhost:1313/Website-for-ky1/tags/post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
