@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Post on Ky的学习空间</title>
-    <link>http://localhost:1313/Website-for-ky1/tags/post/</link>
+    <link>https://killerky16.github.io/Website-for-ky1/tags/post/</link>
     <description>Recent content in Post on Ky的学习空间</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 02 Jun 2025 14:36:31 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/Website-for-ky1/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://killerky16.github.io/Website-for-ky1/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/Website-for-ky1/posts/first-post/</link>
+      <link>https://killerky16.github.io/Website-for-ky1/posts/first-post/</link>
       <pubDate>Mon, 02 Jun 2025 14:36:31 +0800</pubDate>
-      <guid>http://localhost:1313/Website-for-ky1/posts/first-post/</guid>
+      <guid>https://killerky16.github.io/Website-for-ky1/posts/first-post/</guid>
       <description>&lt;p&gt;Hi there, how&amp;rsquo;s the weather Today?&lt;/p&gt;
-&lt;p&gt;Welcome to my blog &lt;a href=&#34;https://killerky16.github.io/Website-for-ky1/&#34;&gt;主页&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;This is Heifei, it&amp;rsquo;s raining here.&lt;/p&gt;
+&lt;p&gt;Welcome to my blog &lt;a href=&#34;https://killerky16.github.io/Website-for-ky1/&#34;&gt;主页&lt;/a&gt; !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
