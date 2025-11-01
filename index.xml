@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ky的空间</title>
+    <title>Kaiyuan个人主页</title>
     <link>https://killerky16.github.io/Website-for-ky1/</link>
     <description>Recent content on Ky的空间</description>
     <generator>Hugo -- 0.147.7</generator>
@@ -19,3 +19,4 @@
     </item>
   </channel>
 </rss>
+
